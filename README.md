@@ -1,16 +1,17 @@
-## Hi there 👋
+# Matt Ricci
 
-<!--
-**mattricci6/mattricci6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Avionics Firmware Lead @ RMIT HIVE | BE, BS (expected Nov. 2025)
 
-Here are some ideas to get you started:
+Firmware developer for [Australis avionics](https://github.com/RMIT-Competition-Rocketry/Australis-Avionics-firmware)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Maintainer of GitHub org for [RMIT Competition Rocketry](https://github.com/RMIT-Competition-Rocketry)
+
+## About
+Enthusiastic Computer and Network Engineering student, passionate about computer architecture, embedded systems programming, and RTL design. Experience developing firmware for student rocket avionics using FreeRTOS on ARM-based targets, with skills in both hardware and software domains.
+
+
+<div align='center'>
+<img src='https://github.com/user-attachments/assets/85b1be01-dbdb-47d1-b81f-e5dd6fc070df' width=50%/>
+
+Proud winner of the Dr. Gil Moore Award for Innovation at IREC 2025!
+</div>
