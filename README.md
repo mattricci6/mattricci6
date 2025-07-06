@@ -17,7 +17,6 @@ I have spent the past two years participating in RMIT University's efforts to re
 Proud winner of the Dr. Gil Moore Award for Innovation at IREC 2025!
 </div>
 
-<br>
 
 With this team I have won two awards for technical excellence and placed second in our category for the 2024 **Australian Universities Rocket Competition** (AURC), and presented a talk at the conference day podium session for 2025's IREC on the _"Design and Testing of an N-Modular Flight Computer"_
 
