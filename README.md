@@ -1,3 +1,5 @@
+---
+
 # Matt Ricci
 
 Avionics Firmware Lead @ RMIT HIVE | BE, BS (expected Nov. 2025)
@@ -5,6 +7,8 @@ Avionics Firmware Lead @ RMIT HIVE | BE, BS (expected Nov. 2025)
 Firmware developer of [Australis avionics](https://github.com/RMIT-Competition-Rocketry/Australis-Avionics-firmware)
 
 Maintainer of GitHub org for [RMIT Competition Rocketry](https://github.com/RMIT-Competition-Rocketry)
+
+---
 
 ## About Me
 I'm an enthusiastic student in computer engineering, passionate about computer architecture, embedded systems programming, and RTL design. I have experience developing firmware for student rocket avionics using FreeRTOS on ARM-based targets, with skills in both hardware and software domains.
