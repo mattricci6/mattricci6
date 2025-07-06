@@ -24,31 +24,3 @@ Proud winner of the Dr. Gil Moore Award for Innovation at IREC 2025!
 
 
 With this team I have won two awards for technical excellence and placed second in our category for the 2024 **Australian Universities Rocket Competition** (AURC), as well as presented a talk at the conference day podium session for 2025's IREC titled _"Design and Testing of an N-Modular Flight Computer"_
-
-## Awards and Achievements
-
-###### AURC 2024 Results
-- 2<sup>nd</sup> place overall in the 2024 AURC. [^1]
-- Winner of Technical Excellence award. [^1]
-
-<div align='center'>
-<img src='https://github.com/user-attachments/assets/9fff76a1-3861-49fc-8fde-b446359daa8a'  width=60%/>
-
-2024 AURC team
-</div>
-
-###### IREC 2025 Results
-- 59<sup>th</sup> place overall in the 2025 IREC. [^2]
-- Winner of Dr. Gil Moore Award for Innovation. [^3]
-
-<div align='center'>
-<img src='https://github.com/user-attachments/assets/866903ae-2554-46a8-935e-8117bd59a1ff'  width=60%/>
-
-2025 IREC team
-</div>
-
-[^1]: [AURC 2024 results.](https://aurc.ayaa.com.au/2024-results/)
-[^2]: [IREC 2025 scoring.](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.soundingrocket.org%2Fuploads%2F9%2F0%2F6%2F4%2F9064598%2Firec2025_final_scoresheet__1_.xlsx&wdOrigin=BROWSELINK)
-[^3]: [IREC 2025 results.](https://www.soundingrocket.org/news1)
-
-
