@@ -26,3 +26,6 @@ Proud winner of the Dr. Gil Moore Award for Innovation at IREC 2025!
 </div>
 
 ---
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattricci6/)
+[![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RMIT-Competition-Rocketry)
