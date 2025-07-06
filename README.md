@@ -2,16 +2,17 @@
 
 # Matt Ricci
 
-Avionics Firmware Lead @ RMIT HIVE | BE, BS (expected Nov. 2025)
+Enthusiastic student in computer engineering, passionate about computer architecture, embedded systems programming, and RTL design. I have experience developing firmware for student rocket avionics using FreeRTOS on ARM-based targets, with skills in both hardware and software domains.
 
-Firmware developer of [Australis avionics](https://github.com/RMIT-Competition-Rocketry/Australis-Avionics-firmware)
+_Avionics Firmware Lead @ RMIT HIVE | BE, BS (expected Nov. 2025)_
 
-Maintainer of GitHub org for [RMIT Competition Rocketry](https://github.com/RMIT-Competition-Rocketry)
+**Firmware developer of** [Australis avionics](https://github.com/RMIT-Competition-Rocketry/Australis-Avionics-firmware)
+
+**Maintainer of GitHub org for** [RMIT Competition Rocketry](https://github.com/RMIT-Competition-Rocketry)
 
 ---
 
 ## About Me
-I'm an enthusiastic student in computer engineering, passionate about computer architecture, embedded systems programming, and RTL design. I have experience developing firmware for student rocket avionics using FreeRTOS on ARM-based targets, with skills in both hardware and software domains.
 
 I have spent the past two years participating in RMIT University's efforts to restart its involvement in competition rocketry, helping build the foundation of the new team in 2024 as firmware lead for the avionics subsystem and continuing this role in 2025 for our participation in the **International Rocket Engineering Competition** (IREC). 
 
@@ -22,7 +23,7 @@ Proud winner of the Dr. Gil Moore Award for Innovation at IREC 2025!
 </div>
 
 
-With this team I have won two awards for technical excellence and placed second in our category for the 2024 **Australian Universities Rocket Competition** (AURC), and presented a talk at the conference day podium session for 2025's IREC on the _"Design and Testing of an N-Modular Flight Computer"_
+With this team I have won two awards for technical excellence and placed second in our category for the 2024 **Australian Universities Rocket Competition** (AURC), as well as presented a talk at the conference day podium session for 2025's IREC titled _"Design and Testing of an N-Modular Flight Computer"_
 
 ## Awards and Achievements
 
