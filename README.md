@@ -7,13 +7,19 @@ Firmware developer of [Australis avionics](https://github.com/RMIT-Competition-R
 Maintainer of GitHub org for [RMIT Competition Rocketry](https://github.com/RMIT-Competition-Rocketry)
 
 ## About Me
-Enthusiastic Computer and Network Engineering student, passionate about computer architecture, embedded systems programming, and RTL design. Experience developing firmware for student rocket avionics using FreeRTOS on ARM-based targets, with skills in both hardware and software domains.
+I'm an enthusiastic student in computer engineering, passionate about computer architecture, embedded systems programming, and RTL design. I have experience developing firmware for student rocket avionics using FreeRTOS on ARM-based targets, with skills in both hardware and software domains.
+
+I have spent the past two years participating in RMIT University's efforts to restart its involvement in competition rocketry, helping build the foundation of the new team in 2024 as firmware lead for the avionics subsystem and continuing this role in 2025 for our participation in the **International Rocket Engineering Competition** (IREC). 
 
 <div align='center'>
-<img src='https://github.com/user-attachments/assets/85b1be01-dbdb-47d1-b81f-e5dd6fc070df' width=50%/>
+<img src='https://github.com/user-attachments/assets/6beb8d3a-4726-4d80-b682-8aea7b14c39d' width=40%/>
 
 Proud winner of the Dr. Gil Moore Award for Innovation at IREC 2025!
 </div>
+
+<br>
+
+With this team I have won two awards for technical excellence and placed second in our category for the 2024 **Australian Universities Rocket Competition** (AURC), and presented a talk at the conference day podium session for 2025's IREC on the _"Design and Testing of an N-Modular Flight Computer"_
 
 ## Awards and Achievements
 
@@ -37,4 +43,8 @@ Proud winner of the Dr. Gil Moore Award for Innovation at IREC 2025!
 2025 IREC team
 </div>
 
----
+[^1]: [AURC 2024 results.](https://aurc.ayaa.com.au/2024-results/)
+[^2]: [IREC 2025 scoring.](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.soundingrocket.org%2Fuploads%2F9%2F0%2F6%2F4%2F9064598%2Firec2025_final_scoresheet__1_.xlsx&wdOrigin=BROWSELINK)
+[^3]: [IREC 2025 results.](https://www.soundingrocket.org/news1)
+
+
