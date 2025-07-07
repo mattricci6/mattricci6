@@ -17,7 +17,7 @@ _Avionics Firmware Lead @ RMIT HIVE | BE, BS (expected Nov. 2025)_
 I have spent the past two years participating in RMIT University's efforts to restart its involvement in competition rocketry, helping build the foundation of the new team in 2024 as firmware lead for the avionics subsystem and continuing this role in 2025 for our participation in the **International Rocket Engineering Competition** (IREC). 
 
 
-In this time our team has won two awards for technical excellence and placed second in our category for the 2024 **Australian Universities Rocket Competition** (AURC), and I had to opportunity to present a talk at the conference day podium session for IREC 2025, titled _"Design and Testing of an N-Modular Flight Computer"_
+In this time our team has won two awards for technical excellence and placed second in our category for the 2024 **Australian Universities Rocket Competition** (AURC), and I had the opportunity to present a talk at the conference day podium session for IREC 2025, titled _"Design and Testing of an N-Modular Flight Computer"_
 
 <div align='center'>
 <img src='https://github.com/user-attachments/assets/6beb8d3a-4726-4d80-b682-8aea7b14c39d' width=40%/>
